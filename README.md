@@ -1,2 +1,2 @@
-Experience in C# (.NET), Python, Javascript(React).
+Experience in C# (.NET), Python, Javascript (React).
 
